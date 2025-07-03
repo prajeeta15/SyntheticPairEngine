@@ -1,4 +1,4 @@
-# 🧠 Synthetic Pair Derivation Engine
+# Synthetic Pair Deviation Engine
 
 A high-performance, C++-based arbitrage detection system for cryptocurrency markets. This engine calculates synthetic trading pair prices in real-time, compares them to actual market rates, and detects profitable arbitrage opportunities across exchanges like Binance, OKX, and Bybit.
 
@@ -16,7 +16,7 @@ A high-performance, C++-based arbitrage detection system for cryptocurrency mark
 
 ---
 
-## 🧱 Architecture Overview:
+## Architecture Overview:
 - ![Screenshot 2025-07-03 123844](https://github.com/user-attachments/assets/aabeee94-7c86-4916-96b3-fbce7e9412ce)
 
 ---
