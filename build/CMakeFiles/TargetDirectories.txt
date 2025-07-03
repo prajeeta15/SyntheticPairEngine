@@ -1,0 +1,4 @@
+C:/Users/Prajeeta/SyntheticPairEngine/build/CMakeFiles/SyntheticPairEngine.dir
+C:/Users/Prajeeta/SyntheticPairEngine/build/CMakeFiles/test.dir
+C:/Users/Prajeeta/SyntheticPairEngine/build/CMakeFiles/edit_cache.dir
+C:/Users/Prajeeta/SyntheticPairEngine/build/CMakeFiles/rebuild_cache.dir
